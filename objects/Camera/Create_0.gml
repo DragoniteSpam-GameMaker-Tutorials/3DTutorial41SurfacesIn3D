@@ -68,6 +68,7 @@ link_rotation = 0;
 time = 0;
 
 surface_extra = surface_create(surface_get_width(application_surface), surface_get_height(application_surface));
+surface_extra_copy = surface_create(surface_get_width(application_surface), surface_get_height(application_surface));
 
 application_surface_draw_enable(false);
 
@@ -76,3 +77,5 @@ rock_positions = array_create(40);
 for (var i = 0; i < array_length(rock_positions); i++) {
     rock_positions[i] = [random(room_width), random(room_height)];
 }
+
+vb_screen = load_model("one-way-wall.d3d");
