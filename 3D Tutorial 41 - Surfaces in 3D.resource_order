@@ -1,0 +1,18 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"fnt_game","order":5,"path":"fonts/fnt_game/fnt_game.yy",},
+    {"name":"Player","order":1,"path":"objects/Player/Player.yy",},
+    {"name":"load_model","order":1,"path":"scripts/load_model/load_model.yy",},
+    {"name":"scr_draw_all_the_stuff","order":13,"path":"scripts/scr_draw_all_the_stuff/scr_draw_all_the_stuff.yy",},
+    {"name":"screen_to_world","order":3,"path":"scripts/screen_to_world/screen_to_world.yy",},
+    {"name":"shd_sobel","order":12,"path":"shaders/shd_sobel/shd_sobel.yy",},
+    {"name":"shd_toon_hlsl","order":10,"path":"shaders/shd_toon_hlsl/shd_toon_hlsl.yy",},
+    {"name":"shd_toon","order":8,"path":"shaders/shd_toon/shd_toon.yy",},
+    {"name":"spr_heart","order":1,"path":"sprites/spr_heart/spr_heart.yy",},
+    {"name":"spr_link","order":7,"path":"sprites/spr_link/spr_link.yy",},
+    {"name":"spr_rock","order":11,"path":"sprites/spr_rock/spr_rock.yy",},
+    {"name":"spr_shadow","order":6,"path":"sprites/spr_shadow/spr_shadow.yy",},
+    {"name":"spr_toonification","order":9,"path":"sprites/spr_toonification/spr_toonification.yy",},
+  ],
+}
